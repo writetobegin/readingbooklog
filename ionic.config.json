@@ -1,0 +1,8 @@
+{
+  "name": "readingbooklog",
+  "app_id": "62278123",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
